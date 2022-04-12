@@ -1,13 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.bg {
+  background-color: rgb(80, 170, 255);
+}
+.light {
+  color: white;
+}
+.dark {
+  color: black;
+}
+.style_font {
+  font-family: "Fredoka One", cursive;
+}
+.icon_col {
+  color: rgb(80, 170, 255);
+}
+.icon_col_light {
+  color: rgb(255, 255, 255);
+}
+.bg-blue {
+  background-color: rgb(80, 170, 255);
+}
+.small_text {
+  font-size: 0.8rem;
 }

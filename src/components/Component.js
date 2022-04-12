@@ -1,7 +1,7 @@
 import React from "react";
 import { AiOutlineSearch, AiFillLock } from "react-icons/ai";
 
-const Header = () => {
+const Component = () => {
   return (
     <>
       <div class="container mt-5">
@@ -70,4 +70,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Component;
